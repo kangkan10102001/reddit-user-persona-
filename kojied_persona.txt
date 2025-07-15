@@ -1,0 +1,17 @@
+User Persona: kojied
+
+- Personality Traits:
+  - Curious and reflective (e.g., “I’ve been thinking about how technology shapes behavior.”)
+  - Open-minded with a tendency to explore various subreddits and viewpoints.
+
+- Interests:
+  - Deep interest in philosophy, AI ethics, and programming.
+  - Participates frequently in r/machinelearning and r/askphilosophy.
+
+- Communication Style:
+  - Thoughtful, uses long-form responses and cites sources.
+  - Avoids sarcasm and uses respectful tone.
+
+- Possible Background:
+  - Likely a student or researcher in tech or humanities field.
+  - Based on discussions, has some experience with coding and academic debates.
